@@ -11,3 +11,5 @@ venv\Scripts\activate
 ```
 uvicorn main:app --reload
 ```
+
+1. pydantic
